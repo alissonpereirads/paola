@@ -1,0 +1,11 @@
+pytube  
+youtube-transcript-api 
+langchain 
+langchain_groq  
+groq
+tiktoken 
+python-dotenv 
+streamlit==1.43.2
+protobuf==4.25.3
+python-dotenv
+langchain-community
